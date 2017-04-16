@@ -1,0 +1,5 @@
+pass-extension-tail (1.0.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #858235)
+
+ -- Gavin Lai (賴建宇) <gavin09@gmail.com>  Sun, 16 Apr 2017 23:00:30 +0800
