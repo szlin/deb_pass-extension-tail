@@ -6,3 +6,6 @@
 pass-extension-tail_1.0.0.orig.tar.gz
 d88caaf2a2eba098512734f2699ff65f8addda70
 13653
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
