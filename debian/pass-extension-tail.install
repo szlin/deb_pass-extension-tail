@@ -1,0 +1,2 @@
+src/tail.bash usr/lib/password-store/extensions
+src/tailedit.bash usr/lib/password-store/extensions
