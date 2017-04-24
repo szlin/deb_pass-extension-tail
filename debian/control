@@ -1,15 +1,15 @@
 Source: pass-extension-tail
-Maintainer: Gavin Lai <gavin09@gmail.com>
+Maintainer: Gavin Lai (賴建宇) <gavin09@gmail.com>
 Section: admin
 Priority: optional
-Standards-Version: 3.9.8
+Standards-Version: 3.9.6
 Build-Depends: debhelper (>=9)
 Vcs-Git: https://github.com/palortoff/pass-extension-tail.git
 Vcs-Browser: https://github.com/palortoff/pass-extension-tail
 
 Package: pass-extension-tail
 Architecture: all
-Depends: ${misc:Depends}, pass (>= 1.7.0), gnupg2 | gnupg, bash
-Description: A password-store extension to avoid printing the password
- An extension for the password store that allows to display and edit password
- meta data without displaying the password itself to bystanders.
+Depends: ${misc:Depends}, pass (>= 1.7.0), gnupg2 | gnupg, bash ( >= 4.0.0)
+Description: password-store extension to avoid printing the password
+ An extension for the password store that allows users to display and edit
+ password meta data without displaying the password itself to bystanders.
