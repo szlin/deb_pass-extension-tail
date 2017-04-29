@@ -1,11 +1,13 @@
 Source: pass-extension-tail
 Maintainer: Gavin Lai (賴建宇) <gavin09@gmail.com>
+Uploaders: SZ Lin (林上智) <szlin@debian.org>
 Section: admin
 Priority: optional
-Standards-Version: 3.9.6
-Build-Depends: debhelper (>=9)
-Vcs-Git: https://github.com/palortoff/pass-extension-tail.git
-Vcs-Browser: https://github.com/palortoff/pass-extension-tail
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 10)
+Homepage: https://github.com/palortoff/pass-extension-tail
+Vcs-Git: https://anonscm.debian.org/git/collab-maint/pass-extension-tail.git
+Vcs-Browser: https://anonscm.debian.org/git/collab-maint/pass-extension-tail.git
 
 Package: pass-extension-tail
 Architecture: all
