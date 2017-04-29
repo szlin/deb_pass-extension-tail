@@ -13,5 +13,6 @@ Package: pass-extension-tail
 Architecture: all
 Depends: ${misc:Depends}, pass (>= 1.7.0), gnupg2 | gnupg, bash ( >= 4.0.0)
 Description: password-store extension to avoid printing the password
- An extension for the password store that allows users to display and edit
- password meta data without displaying the password itself to bystanders.
+ An extension for the password store that allows users to display and
+ edit password meta data without displaying the password itself to
+ bystanders
